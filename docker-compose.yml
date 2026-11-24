@@ -1,0 +1,12 @@
+name: census-weight
+services:
+  app:
+    build: .
+    ports:
+      - "18473:8080"
+    environment:
+      SURVEY_ARCHIVE: var/survey.db
+    volumes:
+      - survey-db:/opt/survey/var
+volumes:
+  survey-db:

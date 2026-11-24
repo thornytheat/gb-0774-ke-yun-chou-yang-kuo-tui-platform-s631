@@ -1,0 +1,9 @@
+ticket,trip,reported_layer,visit,status,probability,choice
+00011,0001,枢纽,2,YES,1/3,transfer
+00012,0002,枢纽,1,YES,1/4,direct
+00013,0002,枢纽,1,YES,1/2,other
+00021,0003,城北,1,YES,1/2,direct
+00022,0003,城北,1,YES,1/2,transfer
+00023,0005,城北,1,YES,1/2,other
+00031,0004,末班,1,YES,1/2,transfer
+00032,0004,末班,1,YES,1/2,direct

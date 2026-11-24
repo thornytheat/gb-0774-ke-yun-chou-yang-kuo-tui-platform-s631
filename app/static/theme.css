@@ -1,0 +1,7 @@
+:root {
+  --bg:#f0edf7; --station:#221d31; --station-ink:#f0eafd; --surface:#fff; --pale:#f6effb;
+  --ink:#272034; --dim:#5b536a; --line:#dfd6e8; --accent:#8d53a0; --deep:#63347f;
+  --ok:#226442; --ok-bg:#e1f0e7; --warn:#843c04; --warn-bg:#fbebd9;
+  --font-ui:Inter,system-ui,sans-serif; --font-num:"SFMono-Regular",Consolas,monospace;
+  --gap:13px; --pad:16px; --row:31px; --radius:8px;
+}
